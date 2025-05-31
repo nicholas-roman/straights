@@ -1,0 +1,12 @@
+h
+c
+c
+c
+play 7D
+discard 7S
+pad
+deck
+play 7S
+play 8H
+play 7D
+ragequit

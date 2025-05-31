@@ -1,0 +1,6 @@
+h
+c
+c
+h
+deck
+quit

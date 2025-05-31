@@ -1,0 +1,109 @@
+h
+h
+h
+h
+play 7S
+deck
+play 8S
+play 9D
+discard 5C
+play 9S
+discard 8D
+play 7H
+play 7D
+discard KS
+discard QS
+play 6S
+play 8H
+discard KC
+play 9H
+play TH
+play JH
+discard JS
+play QH
+play 7C
+play KH
+discard AD
+play 8C
+play 9C
+play TS
+discard 5C
+play TC
+play 6D
+play 6H
+play 5D
+play JC
+play 6C
+ragequit
+play 4D
+play 5H
+play 5S
+play 4H
+play 4S
+play 2D
+play 2S
+discard QD
+play AS
+play 3J
+play 3H
+play 2H
+play AH
+discard 2C
+discard TD
+discard KD
+discard 3C
+discard 9D
+play 7S
+play 6S
+play 7D
+play 8D
+play 7C
+play 8S
+play 9D
+play 5H
+play TD
+play 8C
+ragequit
+play 9C
+play 6D
+play TH
+play JH
+play QH
+play 4H
+play JD
+play JS
+play AS
+play KD
+deck
+discard 5C
+play 3H
+play 4D
+play KC
+play 3D
+play KS
+discard 4C
+discard 3C
+discard 2C
+discard KS
+ragequit
+discard KD
+play TS
+play 6C
+play 8D
+play 4S
+play 5C
+play 9D
+play 9H
+play TH
+play 3H
+play JH
+discard 4D
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+h
+c
+h
+c
+play 7S
+discard TD
+ragequit
+quit
